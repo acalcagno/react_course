@@ -39,7 +39,6 @@ import { Link } from 'react-router-dom'
                         <h3>Menu</h3>
                         <hr />
                     </div>
-                
                 </div>
                 <div className="row">
                     {menu}
