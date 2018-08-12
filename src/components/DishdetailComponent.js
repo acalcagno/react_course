@@ -1,6 +1,8 @@
 import React from 'react';
 import { Card, CardImg, CardText, CardBody, CardTitle, Breadcrumb, BreadcrumbItem } from 'reactstrap';
 import { Link } from 'react-router-dom'
+import CommentForm from './CommentForm'
+
 
     function RenderDish({dish}) {
         return( <div className="col-12 col-sm-5 m-1">
@@ -16,7 +18,8 @@ import { Link } from 'react-router-dom'
 
     function RenderComments({comments}) {
         if(comments) {
-            return( <div className="col-12 col-sm-5 m-1">
+            return(
+            <div className="col-12 col-sm-5 m-1">
                 <div className="h4">Comments</div>
                     <ul className="list-unstyled">
                         {comments.map((each) => {
@@ -26,12 +29,13 @@ import { Link } from 'react-router-dom'
                                     <div className="blockquote-footer"> {each.author}, { new Intl.DateTimeFormat('en-US', { year:'numeric', month:'short', day:'2-digit'}).format(new Date(Date.parse(each.date)))}</div>
                                     <br/>
                                 </li>
-                            )})}
+                        )})}
                     </ul>
+                    <CommentForm/>
                 </div>
             )
         } else {
-            return(<div></div>)
+            return(<div><CommentForm/></div>)
         }
     }
 
