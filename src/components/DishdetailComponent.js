@@ -5,9 +5,6 @@ import { Loading } from './LoadingComponent'
 import CommentForm from './CommentForm'
 
 
-
-
-
     function RenderDish({dish}) {
         return( <div className="col-12 col-sm-5 m-1">
             <Card>
