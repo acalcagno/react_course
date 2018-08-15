@@ -35,7 +35,7 @@ function Home(props) {
                 <div className="col-12 col-md m-1">
                     <RenderCard item={props.dish}
                                 isLoading={props.dishesLoading}
-                                errMess={props.errMess} />
+                                errMess={props.dishErrMess} />
                 </div>
                 <div className="col-12 col-md m-1">
                     <RenderCard item={props.promotion}
