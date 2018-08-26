@@ -61,7 +61,11 @@ function About(props) {
                 </div>
                 <div className="col-12">
                     <Media list>
-                        <Renderleader leaders = {props.leaders} />
+
+                        <Renderleader leaders = {props.leaders}
+                                      leadersLoading={props.leaders.isLoading}
+                                      leadersErrMess={props.leaders.errMess}/>
+
                     </Media>
                 </div>
             </div>

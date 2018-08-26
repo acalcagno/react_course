@@ -1,6 +1,6 @@
 Recursos del curso
 
-SEMANA I
+##SEMANA I
 
 Full Stack Web Development: Additional Resources
 
@@ -41,7 +41,8 @@ Setting up your Development Environment: Git and Node: Additional Resources
     Atlassian comprehensive Git tutorial
     https://www.atlassian.com/git/tutorials/
 
-    Additional Resources (Node.js and NPM)
+Additional Resources (Node.js and NPM)
+
     Nodejs.org
     https://nodejs.org/
 
