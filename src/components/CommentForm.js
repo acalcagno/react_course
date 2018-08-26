@@ -25,7 +25,7 @@ class CommentForm extends Component {
 
     handleSubmit(values){
         this.toggleModal();
-        this.props.addComment(this.props.dishId, values.rating, values.author, values.comment)
+        this.props.postComment(this.props.dishId, values.rating, values.author, values.comment)
     }
 
     render() {
@@ -58,7 +58,7 @@ class CommentForm extends Component {
                                 <Col>
                                     <Label htmlFor="author" >Your Name</Label>
                                     <Control.text className="form-control"
-                                                  model=".author" id="author" name="author" placeHolder="Your Name"
+                                                  model=".author" id="author" name="author" placeholder="Your Name"
                                                   innerRef={(input) => this.author = input }
                                                   validators={{
                                                       minLength: minLength(2), maxLength: maxLenght(15)
