@@ -4,16 +4,23 @@ import { Link } from 'react-router-dom'
 import { Loading } from './LoadingComponent'
 import CommentForm from './CommentForm'
 import { baseUrl } from '../shared/baseUrl'
+import { FadeTransform, Fade, Stagger } from 'react-animation-components';
 
     function RenderDish({dish}) {
         return( <div className="col-12 col-sm-5 m-1">
-            <Card>
-                <CardImg width="100%" src={baseUrl + dish.image} alt={dish.name}/>
-                <CardBody>
-                    <CardTitle>{dish.name}</CardTitle>
-                    <CardText>{dish.description}</CardText>
-                </CardBody>
-            </Card>
+            <FadeTransform
+                in
+                transformProps={{
+                    exitTransform: 'scale(0.5) translateY(-50%)'
+                }}>
+                <Card>
+                    <CardImg width="100%" src={baseUrl + dish.image} alt={dish.name}/>
+                    <CardBody>
+                        <CardTitle>{dish.name}</CardTitle>
+                        <CardText>{dish.description}</CardText>
+                    </CardBody>
+                </Card>
+            </FadeTransform>
         </div>)
     }
 
@@ -23,14 +30,18 @@ import { baseUrl } from '../shared/baseUrl'
             <div className="col-12 col-sm-5 m-1">
                 <div className="h4">Comments</div>
                     <ul className="list-unstyled">
+                        <Stagger in>
                         {comments.map((each) => {
                             return (
-                                <li key={each.id}>
-                                    <div className="blockquote">{each.comment}</div>
-                                    <div className="blockquote-footer"> {each.author}, { new Intl.DateTimeFormat('en-US', { year:'numeric', month:'short', day:'2-digit'}).format(new Date(Date.parse(each.date)))}</div>
-                                    <br/>
-                                </li>
+                                <Fade in>
+                                    <li key={each.id}>
+                                        <div className="blockquote">{each.comment}</div>
+                                        <div className="blockquote-footer"> {each.author}, { new Intl.DateTimeFormat('en-US', { year:'numeric', month:'short', day:'2-digit'}).format(new Date(Date.parse(each.date)))}</div>
+                                        <br/>
+                                    </li>
+                                </Fade>
                         )})}
+                        </Stagger>
                     </ul>
                     <CommentForm dishId={dishId} postComment={postComment}/>
                 </div>
