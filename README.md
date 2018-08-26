@@ -563,7 +563,7 @@ Building and Deployment: Additional Resources
 
 
 
-
+#A partir de acá documentación automatica
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
