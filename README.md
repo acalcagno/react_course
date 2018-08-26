@@ -1,3 +1,571 @@
+Recursos del curso
+
+SEMANA I
+
+Full Stack Web Development: Additional Resources
+
+    What is a Full Stack developer?
+    http://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/
+
+    Wait, Wait… What is a Full-stack Web Developer After All?
+    http://edward-designer.com/web/full-stack-web-developer/
+
+    The Myth of the Full-stack Developer
+    http://andyshora.com/full-stack-developers.html
+
+    Multi-tier Architecture
+    https://en.wikipedia.org/wiki/Multitier_architecture
+
+    What is the 3-Tier Architecture?
+    http://www.tonymarston.net/php-mysql/3-tier-architecture.html
+
+
+Setting up your Development Environment: Git and Node: Additional Resources
+
+    Additional Resources (Git)
+    Git site http://git-scm.com.
+    http://git-scm.com/
+
+    Installing Git chapter from Pro Git
+    https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+    Git reference manual
+    https://git-scm.com/docs
+
+    Quick reference guides: GitHub Cheat Sheet (PDF)
+    https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+
+    Visual Git Cheat Sheet (SVG | PNG)
+    http://ndpsoftware.com/git-cheatsheet.html
+
+    Atlassian comprehensive Git tutorial
+    https://www.atlassian.com/git/tutorials/
+
+    Additional Resources (Node.js and NPM)
+    Nodejs.org
+    https://nodejs.org/
+
+    Npmjs.com
+    https://www.npmjs.com/
+
+    Node API Documentation
+    https://nodejs.org/api/
+
+    NPM Documentation
+    https://docs.npmjs.com/
+
+    lite-server
+    https://github.com/johnpapa/lite-server
+
+
+Introduction to React: Additional Resources
+
+    React Resources
+    Reactjs.org
+    https://reactjs.org/
+
+    create-react-app
+    https://github.com/facebook/create-react-app
+
+    reactstrap
+    https://reactstrap.github.io/
+
+    reactstrap Navbar
+    https://reactstrap.github.io/components/navbar/
+
+    Introducing JSX
+    https://reactjs.org/docs/introducing-jsx.html
+
+    Convert JSX using Online Babel Compiler
+    https://babeljs.io/repl/#?presets=react&code_lz=GYVwdgxgLglg9mABACwKYBt1wBQEpEDeAUIogE6pQhlIA8AJjAG4B8AEhlogO5xnr0AhLQD0jVgG4iAXyJA
+
+    Definitions
+    Framework
+    https://en.wikipedia.org/wiki/Software_framework
+
+    Hollywood Principle
+    https://en.wikipedia.org/wiki/Hollywood_principle
+
+    Inversion of Control
+    https://en.wikipedia.org/wiki/Inversion_of_control
+
+    Imperative vs Declarative Programming
+    https://netguru.co/blog/imperative-vs-declarative
+
+    Imperative vs Declarative
+    http://latentflip.com/imperative-vs-declarative
+
+    Blog Articles
+    5 Best JavaScript Frameworks in 2017
+    https://hackernoon.com/5-best-javascript-frameworks-in-2017-7a63b3870282#.tt1k09l1d
+
+    Top JavaScript Frameworks & Topics to Learn in 2017
+    https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711#.pe809bf0u
+
+    Declarative vs. Imperative Programming for the Web
+    http://codenugget.co/2015/03/05/declarative-vs-imperative-programming-web.html
+
+    Is React library or a framework?
+    https://develoger.com/is-reactjs-library-or-a-framework-a14786f681a0
+
+    Is React a library or a framework and why?
+    https://www.quora.com/Is-React-a-library-or-a-framework-and-why
+
+    An Introduction to the React Framework
+    https://www.upwork.com/hiring/development/an-introduction-to-the-react-framework/
+
+    React is a framework
+    https://www.sohamkamani.com/blog/2016/11/16/react-is-a-framework/
+
+    Why isn't React called framework? What does it lack to be a framework?
+    https://hashnode.com/post/why-isnt-react-called-framework-what-does-it-lack-to-be-a-framework-ciwm324og010xzx53wjfq354i
+
+React Components: Additional Resources
+
+    React Resources
+
+    React Components
+    https://reactjs.org/docs/components-and-props.html
+
+    React Component State
+    https://reactjs.org/docs/state-and-lifecycle.html
+
+    React Component Props
+    https://reactjs.org/docs/components-and-props.html
+
+    reactstrap Media Object
+    https://reactstrap.github.io/components/media/
+
+    React.Component and Lifecycle Methods
+    https://reactjs.org/docs/react-component.html
+
+    reactstrap Card
+    https://reactstrap.github.io/components/card/
+
+    Bootstrap unstyled list
+    http://getbootstrap.com/docs/4.0/content/typography/#unstyled
+
+    React Dev Tools
+    https://github.com/facebook/react-devtools
+
+    React Dev Tools Chrome Extension
+    https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+
+Ideation: Additional Resources
+
+    General Resources
+    Ideation (creative process)
+    https://en.wikipedia.org/wiki/Ideation_(creative_process)
+
+    Volunteer your Services
+
+    VolunteerMatch.org
+    http://www.volunteermatch.org/
+
+    Free Code Camp
+    https://www.freecodecamp.com/
+
+SEMANA II
+
+React Component Types: Additional Resources
+
+    Presentational and Container Components
+    https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
+
+    Presentational and Container Components (Redux Perspective)
+    https://redux.js.org/basics/usage-with-react
+
+    React Component Patterns
+    https://levelup.gitconnected.com/react-component-patterns-ab1f09be2c82
+
+    Functional Stateless Components in React
+    https://javascriptplayground.com/functional-stateless-components-react/
+
+
+React Router: Additional Resources
+
+    React Resources
+    react-router
+    https://github.com/ReactTraining/react-router
+
+    react-router-dom
+    https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom
+
+    React Router Documentation
+    https://reacttraining.com/react-router/
+
+    React Router Dom Documentation
+    https://reacttraining.com/react-router/web/guides/philosophy
+
+    Other Resources
+    React Router DOM: set-up, essential components, & parameterized routes
+    https://blog.logrocket.com/react-router-dom-set-up-essential-components-parameterized-routes-505dc93642f1
+
+    Basic intro to React Router v4
+    https://medium.com/@thejasonfile/basic-intro-to-react-router-v4-a08ae1ba5c42
+
+    A Simple React Router v4 Tutorial
+    https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf
+
+
+Single Page Applications: Additional Resources
+
+    React Resources
+    react-router
+    https://github.com/ReactTraining/react-router
+
+    react-router-dom
+    https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom
+
+    React Router Documentation
+    https://reacttraining.com/react-router/
+
+    React Router Dom Documentation
+    https://reacttraining.com/react-router/web/guides/philosophy
+
+    Other Resources
+    Arrow Functions
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+    Single Page Applications (Wikipedia)
+    https://en.wikipedia.org/wiki/Single-page_application
+
+    Deep linking
+    https://en.wikipedia.org/wiki/Deep_linking
+
+    Single Page Apps in depth
+    http://singlepageappbook.com/
+
+    SPA and the Single Page Myth
+    http://www.johnpapa.net/pageinspa/
+
+
+UI Design and Prototyping: Additional Resources
+
+    Wireframing, Mockups and UI Design
+    Wireframe.cc
+    https://wireframe.cc/
+
+    Moqups.com
+    https://moqups.com/
+
+    Axure
+    http://www.axure.com/
+
+    proto.io
+    https://proto.io/
+
+    framerjs.com
+    http://framerjs.com/
+
+    The 20 best wireframe tools
+    http://www.creativebloq.com/wireframes/top-wireframing-tools-11121302
+
+    Web Design Inspirations
+    http://www.webdesign-inspiration.com/
+
+    Adobe Experience Design
+    http://www.adobe.com/products/experience-design.html
+
+    Free Bootstrap Wireframing Set for PowerPoint
+    https://onextrapixel.com/free-bootstrap-wireframing-set-for-powerpoint/
+
+
+    UI Templates
+    Bootstrap Expo
+    http://expo.getbootstrap.com/
+
+    Ionic Showcase
+    http://showcase.ionicframework.com/
+
+
+    Information Architecture
+    A visual vocabulary for describing information architecture and interaction design
+    http://www.jjg.net/ia/visvocab/
+
+    The Elements of User Experience
+    http://www.jjg.net/elements/
+
+    The Elements of User Experience: User-Centered Design for the Web and Beyond (2nd Edition) (Voices That Matter)
+    http://www.amazon.com/The-Elements-User-Experience-User-Centered/dp/0321683684/ref=pd_cp_14_1?ie=UTF8&refRID=0RXJWKFHY0TNF5QM2764
+
+
+SEMANA III
+
+Controlled Forms: Additional Resources
+
+    React Resources
+    Controlled Components
+    https://reactjs.org/docs/forms.html
+
+    reactstrap Form
+    https://reactstrap.github.io/components/form/
+
+    Other Resources
+    Controlled / Uncontrolled React Components
+    https://www.viget.com/articles/controlling-components-react/
+
+    Controlled and Uncontrolled Input Values in React
+    https://medium.com/@peter.yun.kim/controlled-and-uncontrolled-input-values-in-react-907119cc98d4
+
+    Controlled and uncontrolled form inputs in React don't have to be complicated
+    https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/
+
+    How to Work with Forms, Inputs and Events in React
+    https://medium.com/capital-one-developers/how-to-work-with-forms-inputs-and-events-in-react-c337171b923b
+
+    Some Thoughts On Forms in React
+    https://medium.com/javascript-inside/some-thoughts-on-forms-in-react-9ca2d9078c20
+
+    Instant form field validation with React's controlled inputs
+    https://goshakkk.name/instant-form-fields-validation-react/
+
+Uncontrolled Forms: Additional Resources
+
+    React Resources
+    Uncontrolled Components
+    https://reactjs.org/docs/uncontrolled-components.html
+
+    reactstrap Form
+    https://reactstrap.github.io/components/form/
+
+    reactstrap Modal Component
+    https://reactstrap.github.io/components/modals/
+
+    Other Resources
+    Controlled / Uncontrolled React Components
+    https://www.viget.com/articles/controlling-components-react/
+
+    Controlled and Uncontrolled Input Values in React
+    https://medium.com/@peter.yun.kim/controlled-and-uncontrolled-input-values-in-react-907119cc98d4
+
+    Controlled and uncontrolled form inputs in React don't have to be complicated
+    https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/
+
+    How to Work with Forms, Inputs and Events in React
+    https://medium.com/capital-one-developers/how-to-work-with-forms-inputs-and-events-in-react-c337171b923b
+
+    Some Thoughts On Forms in React
+    https://medium.com/javascript-inside/some-thoughts-on-forms-in-react-9ca2d9078c20
+
+
+Introduction to Redux: Additional Resources
+
+    React Resources
+    Redux
+    https://redux.js.org/
+
+    Redux on Github
+    https://github.com/reactjs/redux
+
+    React and Redux
+    https://redux.js.org/basics/usage-with-react
+
+    Redux Basics Documentation
+    https://redux.js.org/basics
+
+    The Flux Architecture
+    https://facebook.github.io/flux/
+
+    Other Resources
+    Redux Tutorials
+    https://github.com/markerikson/react-redux-links/blob/master/redux-tutorials.md
+
+    Flux Architecture In Depth Overview
+    https://facebook.github.io/flux/docs/in-depth-overview.html#content
+
+
+React Redux Form: Additional Resources
+
+    React Resources
+    React Redux Form Documentation
+    https://davidkpiano.github.io/react-redux-form/docs.html
+
+    Other Resources
+    The boring React Redux forms
+    https://medium.com/@steida/the-boring-react-redux-forms-a15ee8a6b52b
+
+    How to populate react-redux-form with dynamic default values
+    https://swizec.com/blog/populate-react-redux-form-dynamic-default-values/swizec/8158
+
+    Should you store your form state in Redux?
+    https://goshakkk.name/should-i-put-form-state-into-redux/
+
+
+Assignment 3: React Forms and Redux: Additional Resources
+
+    React Resources
+    reactstrap Modal Component
+    https://reactstrap.github.io/components/modals/
+
+    React Redux Form Documentation
+    https://davidkpiano.github.io/react-redux-form/docs.html
+
+
+
+SEMANA IV
+
+Redux Actions: Additional Resources
+
+    Redux Resources
+    Redux Actions
+    https://redux.js.org/basics/actions
+
+    Redux Reducers
+    https://redux.js.org/basics/reducers
+
+    Redux Usage with React
+    https://redux.js.org/basics/usage-with-react
+
+
+Redux Thunk: Additional Resources
+
+    Redux Resources
+    Redux Middleware
+    https://redux.js.org/advanced/middleware
+
+    Redux Thunk
+    https://github.com/gaearon/redux-thunk
+
+    Redux Logger
+    https://github.com/evgenyrodionov/redux-logger
+
+    React-redux-form
+    https://davidkpiano.github.io/react-redux-form/docs.html
+
+
+Client-Server Communication: Additional Resources
+
+    Other Resources
+    json-server
+    https://github.com/typicode/json-server
+
+    Creating Demo APIs with json-server
+    https://egghead.io/lessons/nodejs-creating-demo-apis-with-json-server
+
+    JSON
+    http://www.json.org/
+
+Fetch: Additional Resources
+
+    Fetch Resources
+    Cross-Fetch
+    https://github.com/lquixada/cross-fetch
+
+    Promise Resources
+    JavaScript Promise
+    https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
+    JS Promise (Part 1 - Basics)
+    https://medium.com/@ramsunvtech/promises-of-promise-part-1-53f769245a53
+
+    JavaScript Promises for Dummies
+    https://scotch.io/tutorials/javascript-promises-for-dummies
+
+    JavaScript Promises: an Introduction
+    https://developers.google.com/web/fundamentals/getting-started/primers/promises
+
+
+    Other Resources
+    Introduction to fetch()
+    https://developers.google.com/web/updates/2015/03/introduction-to-fetch
+
+    Using Fetch
+    https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+
+    Fetch vs. Axios.js for making http requests
+    https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5
+
+
+React Animations: Additional Resources
+
+    React Animations
+    Animation Add-Ons
+    https://reactjs.org/docs/animation.html
+
+    react-transition-group
+    https://github.com/reactjs/react-transition-group
+
+    React Transition Group Documents
+    https://reactcommunity.org/react-transition-group/
+
+    react-animation-components
+    https://github.com/unruffledBeaver/react-animation-components
+
+    Other Resources
+    How to build animated microinteractions in React
+    https://medium.freecodecamp.org/how-to-build-animated-microinteractions-in-react-aab1cb9fe7c8
+
+    UI Animations with React — The Right Way
+    https://medium.com/@joethedave/achieving-ui-animations-with-react-the-right-way-562fa8a91935
+
+    React Animations in Depth
+    https://medium.com/react-native-training/react-animations-in-depth-433e2b3f0e8e
+
+    What’s the most developer-friendly React animation library?
+    https://www.freshtilledsoil.com/whats-the-most-developer-friendly-react-animation-library/
+
+    Amazing React animation with react-pose
+    https://medium.com/@joomiguelcunha/amazing-react-animation-with-react-pose-3b67d9eb6e07
+
+
+Assignment 4: Redux, Client-Server Communication and Fetch: Additional Resources
+
+    React Resources
+    Redux Actions
+    https://redux.js.org/basics/actions
+
+    Redux Reducers
+    https://redux.js.org/basics/reducers
+
+    Redux Usage with React
+    https://redux.js.org/basics/usage-with-react
+
+    Cross-Fetch
+    https://github.com/lquixada/cross-fetch
+
+    Animation Add-Ons
+    https://reactjs.org/docs/animation.html
+
+    react-transition-group
+    https://github.com/reactjs/react-transition-group
+
+    React Transition Group Documents
+    https://reactcommunity.org/react-transition-group/
+
+    react-animation-components
+    https://github.com/unruffledBeaver/react-animation-components
+
+
+Building and Deployment: Additional Resources
+
+    React Resources
+    Webpack: an Introduction
+    https://angular.io/docs/ts/latest/guide/webpack.html
+
+    create-react-app Build
+    https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#npm-run-build
+
+    Other Resources
+    Webpack
+    https://webpack.js.org/concepts/
+
+    Webpack on Github
+    https://webpack.github.io/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
